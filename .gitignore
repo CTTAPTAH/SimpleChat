@@ -1,0 +1,26 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.env
+.venv/
+.venv*/
+.envrc
+*.db
+
+# ===== IDE Files =====
+.idea/
+*.iml
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Cache / Misc =====
+*.swp
+*.bak
